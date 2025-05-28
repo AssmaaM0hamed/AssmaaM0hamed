@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -32,14 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
-###
-
-<div align="center">
-  🔗 <a href="https://github.com/AssmaaM0hamed" target="_blank"><strong>GitHub</strong></a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/assmaa-mohamed" target="_blank"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
-  📂 <a href="https://github.com/AssmaaM0hamed/Inventory_System" target="_blank"><strong>Inventory System Project</strong></a> &nbsp;|&nbsp;
-  📂 <a href="https://github.com/AssmaaM0hamed/Attendance-Management-System" target="_blank"><strong>Attendance Management Project</strong></a>
-</div>
 ###
 
 <div align="center">
